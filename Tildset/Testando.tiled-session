@@ -1,0 +1,115 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 16,
+            "scaleInEditor": 1
+        },
+        "#Tileset": {
+            "scaleInDock": 1
+        },
+        "#Tileset_1": {
+            "scaleInDock": 1
+        },
+        "#chão": {
+            "scaleInDock": 1
+        },
+        "Mapinha.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 338.5,
+                "y": 565
+            }
+        },
+        "Mapinha.tmx#Chão": {
+            "scaleInDock": 1
+        },
+        "map-tmx/file.tmx": {
+            "scale": 0.36589843749999995,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1279.0434504110178,
+                "y": 368.9548414647166
+            }
+        },
+        "map-tmx/file.tmx#Box2": {
+            "scaleInDock": 1
+        },
+        "map-tmx/file.tmx#IndustrialTile_04": {
+            "scaleInDock": 1
+        },
+        "map-tmx/file.tmx#IndustrialTile_05": {
+            "scaleInDock": 1
+        },
+        "map-tmx/file.tmx#IndustrialTile_06": {
+            "scaleInDock": 1
+        },
+        "map-tmx/file.tmx#IndustrialTile_13": {
+            "scaleInDock": 1
+        },
+        "map-tmx/file.tmx#IndustrialTile_14": {
+            "scaleInDock": 1
+        },
+        "map-tmx/file.tmx#IndustrialTile_15": {
+            "scaleInDock": 1
+        },
+        "map-tmx/file.tmx#IndustrialTile_32": {
+            "scaleInDock": 1
+        },
+        "map-tmx/file.tmx#Ladder1": {
+            "scaleInDock": 1
+        },
+        "sem título.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 2084,
+                "y": 648.5
+            }
+        },
+        "sem título.tmx#Chão": {
+            "scaleInDock": 1
+        },
+        "testando.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 252.5,
+                "y": 326
+            }
+        },
+        "testando.tmx#Tileset_1": {
+            "scaleInEditor": 1
+        },
+        "testando.tmx#chão": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/DEV-T-2025/Downloads",
+    "map.height": 15,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 187,
+    "openFiles": [
+        "Mapinha.tmx",
+        "testando.tmx"
+    ],
+    "project": "Testando.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "testando.tmx",
+        "Mapinha.tmx",
+        "sem título.tmx",
+        "map-tmx/file.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx"
+}
